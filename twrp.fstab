@@ -1,6 +1,3 @@
-#
-# UMIDIGI F1 Play
-#
 /boot_para	    emmc	/dev/block/platform/bootdevice/by-name/boot_para
 /recovery	    emmc	/dev/block/platform/bootdevice/by-name/recovery         flags=display="Recovery";backup=1
 /para		    emmc	/dev/block/platform/bootdevice/by-name/para             flags=display="Parametr";backup=1
